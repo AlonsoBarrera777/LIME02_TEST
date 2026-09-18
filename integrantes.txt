@@ -1,2 +1,3 @@
 Nombre         | Correo                     | Usuario de GitHub
 Alonso Barrera | jalonsobarrera10@gmail.com | AlonsoBarrera777
+Mario León Mendoza | leonmendozamario11@gmail.com | MarioSadow22
