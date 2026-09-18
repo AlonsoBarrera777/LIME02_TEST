@@ -1,0 +1,2 @@
+Nombre         | Correo                     | Usuario de GitHub
+Alonso Barrera | jalonsobarrera10@gmail.com | AlonsoBarrera777
